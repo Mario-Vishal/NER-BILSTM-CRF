@@ -7,7 +7,7 @@ from Computer Science department.
 
 ## Features
 Sequence modeling with RNN (LSTM/GRU).<br/>
-Sequence labeling with CRF directly used from this [https://github.com/rikeda71/TorchCRF/blob/master/TorchCRF/__init__.py](repo).<br/>
+Sequence labeling with CRF directly used from this [repo](https://github.com/rikeda71/TorchCRF/blob/master/TorchCRF/__init__.py]).<br/>
 Custom Dataset class which can be used to create DataLoaders for training and testing.<br/>
 
 ## Requirements
