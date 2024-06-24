@@ -6,9 +6,9 @@ The Dataset contains 30k Job descriptions which are generated using 12 different
 from Computer Science department.
 
 ## Features
-Sequence modeling with RNN (LSTM/GRU).
-Sequence labeling with CRF directly used from this [https://github.com/rikeda71/TorchCRF/blob/master/TorchCRF/__init__.py](repo).
-Custom Dataset class which can be used to create DataLoaders for training and testing.
+Sequence modeling with RNN (LSTM/GRU).<br/>
+Sequence labeling with CRF directly used from this [https://github.com/rikeda71/TorchCRF/blob/master/TorchCRF/__init__.py](repo).<br/>
+Custom Dataset class which can be used to create DataLoaders for training and testing.<br/>
 
 ## Requirements
 Python - 3.7+
