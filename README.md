@@ -9,6 +9,7 @@ from Computer Science department.
 Sequence modeling with RNN (LSTM/GRU).<br/>
 Sequence labeling with CRF directly used from this [repo](https://github.com/rikeda71/TorchCRF/blob/master/TorchCRF/__init__.py]).<br/>
 Custom Dataset class which can be used to create DataLoaders for training and testing.<br/>
+Custom Class which can generate data suitable for NER in csv format. <br/>
 
 ## Requirements
 Python - 3.7+
